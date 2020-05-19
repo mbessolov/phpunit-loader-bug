@@ -1,0 +1,10 @@
+{
+    "name": "mbessolov/phpunit-loader-bug",
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\Tests\\": "tests"}
+    }
+}
